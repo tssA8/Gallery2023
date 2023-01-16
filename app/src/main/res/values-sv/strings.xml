@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+        
+    <string name="next">Nästa</string>
+        
+    <string name="color">Färg</string>
+        
+    <string name="choose_color">Välj en färg</string>
+        
+    <string name="save">Spara</string>
+        
+    <string name="fill">Fyll</string>
+        
+    <string name="picture">Bild</string>
+        
+    <string name="fit">Anpassa</string>
+        
+    <string name="stretch">Sträck ut</string>
+        
+    <string name="dialog_please_wait">Vänta...</string>
+        
+    <string name="reset">Återställ</string>
+        
+    <string name="choose_picture">Välj en bakgrund</string>
+        
+    <string name="wallpaper_setting">Inställningar för bakgrundsbild</string>
+        
+    <string name="thumbnail_setting">Miniatyrinställningar</string>
+        
+    <string name="browse">Bläddra</string>
+    
+    <string name="choose_position">Välj ett läge</string>
+</resources>

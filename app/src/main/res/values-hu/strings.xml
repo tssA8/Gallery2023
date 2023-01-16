@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+        
+    <string name="next">Tovább</string>
+        
+    <string name="color">Szín</string>
+        
+    <string name="choose_color">Szín kiválasztása</string>
+        
+    <string name="save">Mentés</string>
+        
+    <string name="fill">Kitöltés</string>
+        
+    <string name="picture">Kép</string>
+        
+    <string name="fit">Illeszkedés</string>
+        
+    <string name="stretch">Nyújtás</string>
+        
+    <string name="dialog_please_wait">Kérem, várjon...</string>
+        
+    <string name="reset">Visszaállítás</string>
+        
+    <string name="choose_picture">Hátték kiválasztása</string>
+        
+    <string name="wallpaper_setting">Háttérkép beállításai</string>
+        
+    <string name="thumbnail_setting">Miniatűr beállításai</string>
+        
+    <string name="browse">Böngészés</string>
+    
+    <string name="choose_position">Válasszon pozíciót</string>
+</resources>

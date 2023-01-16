@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+        
+    <string name="next">Volgende</string>
+        
+    <string name="color">Kleuren</string>
+        
+    <string name="choose_color">Selecteer een kleur</string>
+        
+    <string name="save">Opslaan</string>
+        
+    <string name="fill">Opvullen</string>
+        
+    <string name="picture">Beeld</string>
+        
+    <string name="fit">Passend maken</string>
+        
+    <string name="stretch">Uittrekken</string>
+        
+    <string name="dialog_please_wait">Even geduld...</string>
+        
+    <string name="reset">Reset</string>
+        
+    <string name="choose_picture">Selecteer een achtergrond</string>
+        
+    <string name="wallpaper_setting">Achtergrondinstellingen</string>
+        
+    <string name="thumbnail_setting">Miniatuurinstellingen</string>
+        
+    <string name="browse">Bladeren</string>
+    
+    <string name="choose_position">Kies een positie</string>
+</resources>

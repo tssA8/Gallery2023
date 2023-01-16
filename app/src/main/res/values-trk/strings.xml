@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+        
+    <string name="next">Sonraki</string>
+        
+    <string name="color">Renk</string>
+        
+    <string name="choose_color">Bir renk seçin</string>
+        
+    <string name="save">Kaydet</string>
+        
+    <string name="fill">Doldur</string>
+        
+    <string name="picture">Resim</string>
+        
+    <string name="fit">Uygun</string>
+        
+    <string name="stretch">Uzat</string>
+        
+    <string name="dialog_please_wait">Lütfen bekleyin...</string>
+        
+    <string name="reset">Sıfırlama</string>
+        
+    <string name="choose_picture">Bir arka plan seçin</string>
+        
+    <string name="wallpaper_setting">Duvar Kağıdı Ayarları</string>
+        
+    <string name="thumbnail_setting">Küçük Resim Ayarları</string>
+        
+    <string name="browse">Araştır</string>
+    
+    <string name="choose_position">Bir pozisyon seçin</string>
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+    <string name="app_name" translatable="false">Gallery</string>
+
+    <string name="wallpaper_setting">Wallpaper Settings</string>
+
+    <string name="thumbnail_setting">Thumbnail Settings</string>
+
+    <string name="picture">Picture</string>
+
+    <string name="color">Color</string>
+
+    <string name="choose_picture">Select a background</string>
+
+    <string name="choose_color">Select a color</string>
+
+    <string name="fill">Fill</string>
+
+    <string name="fit">Fit</string>
+
+    <string name="stretch">Stretch</string>
+
+    <string name="save">Save</string>
+
+    <string name="browse">Browse</string>
+
+    <string name="reset">Reset</string>
+
+    <string name="next">Next</string>
+
+    <string name="dialog_please_wait">Please wait...</string>
+
+    <string name="dialog_title">Loading Now</string>
+
+    <string name="loading_dialog_message">Please wait...</string>
+
+    <string name="loading_dialog_message_button_caption">OK</string>
+
+    <string name="choose_position">Choose a position</string>
+
+    <string name="title_activity_uni_wallpaper" translatable="false">UniWallpaperActivity</string>
+
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+
+    <string name="close_dialog_button_caption">OK</string>
+
+    <string name="loading_dialog_title">Loading</string>
+
+
+    <string name="error_network_call_failed_title">Oops</string>
+    <string name="error_network_call_failed_message">network call failed</string>
+    <string name="error_network_call_failed_positive_button_caption">Retry</string>
+    <string name="error_network_call_failed_negative_button_caption">Close</string>
+    <string name="error_network_call_failed">network call failed</string>
+    <string name="questions_list_screen_title">LATEST QUESTIONS</string>
+    <string name="question_details_screen_title">QUESTION DETAILS</string>
+    <string name="drawer_menu_item_questions_list">Questions list</string>
+
+    <string name="permission_dialog_title">Permission dialog</string>
+    <string name="permission_dialog_button_caption">OK</string>
+    <string name="permission_dialog_granted_message">Permission granted</string>
+    <string name="permission_dialog_cant_ask_more">Permission declined and can\'t ask anymore</string>
+    <string name="permission_dialog_user_declined">Permission declined</string>
+</resources>

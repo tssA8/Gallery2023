@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+        
+    <string name="next">Næste</string>
+        
+    <string name="color">Farve</string>
+        
+    <string name="choose_color">Vælg en farve</string>
+        
+    <string name="save">Gem</string>
+        
+    <string name="fill">Udfyld</string>
+        
+    <string name="picture">Billede</string>
+        
+    <string name="fit">Tilpas</string>
+        
+    <string name="stretch">Stræk</string>
+        
+    <string name="dialog_please_wait">Vent...</string>
+        
+    <string name="reset">Nulstil</string>
+        
+    <string name="choose_picture">Vælg en baggrund</string>
+        
+    <string name="wallpaper_setting">Indstillinger for baggrund</string>
+        
+    <string name="thumbnail_setting">Indstillinger for miniaturer</string>
+        
+    <string name="browse">Gennemse</string>
+    
+    <string name="choose_position">Vælg en position</string>
+</resources>

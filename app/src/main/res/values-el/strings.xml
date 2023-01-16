@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+        
+    <string name="next">Επόμενο</string>
+        
+    <string name="color">Χρώμα</string>
+        
+    <string name="choose_color">Επιλογή χρώματος</string>
+        
+    <string name="save">Αποθήκευση</string>
+        
+    <string name="fill">Γέμισμα</string>
+        
+    <string name="picture">Εικόνα</string>
+        
+    <string name="fit">Προσαρμογή</string>
+        
+    <string name="stretch">Έκταση</string>
+        
+    <string name="dialog_please_wait">Περιμένετε...</string>
+        
+    <string name="reset">Επαναφορά</string>
+        
+    <string name="choose_picture">Επιλογή φόντου</string>
+        
+    <string name="wallpaper_setting">Ρυθμίσεις ταπετσαρίας</string>
+        
+    <string name="thumbnail_setting">Ρυθμίσεις μικρογραφιών</string>
+        
+    <string name="browse">Αναζήτηση</string>
+    
+    <string name="choose_position">Επιλογή θέσης</string>
+</resources>

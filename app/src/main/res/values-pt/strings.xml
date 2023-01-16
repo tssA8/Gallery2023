@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+        
+    <string name="next">Próximo</string>
+        
+    <string name="color">Cor</string>
+        
+    <string name="choose_color">Escolha uma cor</string>
+        
+    <string name="save">Save (Salvar)</string>
+        
+    <string name="fill">Preencher</string>
+        
+    <string name="picture">Imagem</string>
+        
+    <string name="fit">Ajustar</string>
+        
+    <string name="stretch">Estender</string>
+        
+    <string name="dialog_please_wait">Aguarde...</string>
+        
+    <string name="reset">Reset (Restabelecer)</string>
+        
+    <string name="choose_picture">Selecione o fundo</string>
+        
+    <string name="wallpaper_setting">Configurações de papel de parede</string>
+        
+    <string name="thumbnail_setting">Configurações de miniaturas</string>
+        
+    <string name="browse">Browse (Procurar)</string>
+    
+    <string name="choose_position">Escolha uma posição</string>
+</resources>

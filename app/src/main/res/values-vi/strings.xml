@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+        
+    <string name="next">Tiếp theo</string>
+        
+    <string name="color">Màu sắc</string>
+        
+    <string name="choose_color">Chọn màu</string>
+        
+    <string name="save">Lưu</string>
+        
+    <string name="fill">Tô</string>
+        
+    <string name="picture">Hình ảnh</string>
+        
+    <string name="fit">Phù hợp</string>
+        
+    <string name="stretch">Phác thảo</string>
+        
+    <string name="dialog_please_wait">Xin chờ...</string>
+        
+    <string name="reset">Đặt lại</string>
+        
+    <string name="choose_picture">Chọn nền</string>
+        
+    <string name="wallpaper_setting">Cài đặt hình nền</string>
+        
+    <string name="thumbnail_setting">Cài đặt hình thu nhỏ</string>
+        
+    <string name="browse">Duyệt</string>
+    
+    <string name="choose_position">Chọn vị trí</string>
+</resources>

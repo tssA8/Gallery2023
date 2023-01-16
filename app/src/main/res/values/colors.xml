@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="cropMaskColor">#b3000000</color>
+    <color name="dialogBgColor">#585752</color>
+
+    <color name="lightBlue">#25FFFF</color>
+    <color name="titleBgGrey">#6c668d</color>
+    <color name="darkGreyBg">#3b384c</color>
+    <color name="littleBlack">#33000000</color>
+    <color name="blueGreen">#008eaa</color>
+    <color name="littleWhite">#80ffffff</color>
+    <color name="purpleGrey">#6c668d</color>
+    <color name="uni_sytle_bg">#B5333032</color>
+    <color name="titleBgGrey_uni">#404544</color>
+    <color name="wallpaper_tab_bg">#26000000</color>
+    <color name="uni_style_light_blue">#25FFFF</color>
+    <color name="uni_style_hover_press">#157777</color>
+    <color name="wallpaper_focus_color">#25ffff</color>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+        
+    <string name="next">다음</string>
+        
+    <string name="color">색상</string>
+        
+    <string name="choose_color">색 선택</string>
+        
+    <string name="save">저장</string>
+        
+    <string name="fill">채우기</string>
+        
+    <string name="picture">그림</string>
+        
+    <string name="fit">맞춤</string>
+        
+    <string name="stretch">늘이기</string>
+        
+    <string name="dialog_please_wait">잠시만 기다려 주십시오...</string>
+        
+    <string name="reset">재설정</string>
+        
+    <string name="choose_picture">배경 선택</string>
+        
+    <string name="wallpaper_setting">배경 화면 설정</string>
+        
+    <string name="thumbnail_setting">섬네일 설정</string>
+        
+    <string name="browse">찾아보기</string>
+    
+    <string name="choose_position">위치 선택</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+        
+    <string name="next">Suivant</string>
+        
+    <string name="color">Couleur</string>
+        
+    <string name="choose_color">Sélectionner une couleur</string>
+        
+    <string name="save">Enregistrer</string>
+        
+    <string name="fill">Remplir</string>
+        
+    <string name="picture">Image</string>
+        
+    <string name="fit">Ajuster</string>
+        
+    <string name="stretch">Étirement</string>
+        
+    <string name="dialog_please_wait">Veuillez patienter...</string>
+        
+    <string name="reset">Réinitialiser</string>
+        
+    <string name="choose_picture">Sélectionner un arrière plan</string>
+        
+    <string name="wallpaper_setting">Paramètres de fond d\'écran</string>
+        
+    <string name="thumbnail_setting">Paramètres de miniature</string>
+        
+    <string name="browse">Parcourir</string>
+    
+    <string name="choose_position">Choisir une position</string>
+</resources>

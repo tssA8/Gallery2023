@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+        
+    <string name="next">次へ</string>
+        
+    <string name="color">色</string>
+        
+    <string name="choose_color">色を選択</string>
+        
+    <string name="save">保存</string>
+        
+    <string name="fill">塗りつぶし</string>
+        
+    <string name="picture">画像</string>
+        
+    <string name="fit">合わせる</string>
+        
+    <string name="stretch">拡張</string>
+        
+    <string name="dialog_please_wait">しばらくお待ちください...</string>
+        
+    <string name="reset">リセット</string>
+        
+    <string name="choose_picture">背景を選択</string>
+        
+    <string name="wallpaper_setting">壁紙設定</string>
+        
+    <string name="thumbnail_setting">サムネイル設定</string>
+        
+    <string name="browse">参照</string>
+    
+    <string name="choose_position">位置を選択</string>
+</resources>

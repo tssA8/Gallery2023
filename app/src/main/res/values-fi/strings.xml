@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+        
+    <string name="next">Seuraava</string>
+        
+    <string name="color">Väri</string>
+        
+    <string name="choose_color">Valitse väri</string>
+        
+    <string name="save">Tallenna</string>
+        
+    <string name="fill">Täytä</string>
+        
+    <string name="picture">Kuva</string>
+        
+    <string name="fit">Sovita</string>
+        
+    <string name="stretch">Venytä</string>
+        
+    <string name="dialog_please_wait">Odota...</string>
+        
+    <string name="reset">Nollaa</string>
+        
+    <string name="choose_picture">Valitse tausta</string>
+        
+    <string name="wallpaper_setting">Taustakuva-asetukset</string>
+        
+    <string name="thumbnail_setting">Pikkukuvake-asetukset</string>
+        
+    <string name="browse">Selaa</string>
+    
+    <string name="choose_position">Valitse sijainti</string>
+</resources>

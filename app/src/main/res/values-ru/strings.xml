@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+        
+    <string name="next">Далее</string>
+        
+    <string name="color">Цвет</string>
+        
+    <string name="choose_color">Выберите цвет</string>
+        
+    <string name="save">Сохранить</string>
+        
+    <string name="fill">Заполнить</string>
+        
+    <string name="picture">Изображение</string>
+        
+    <string name="fit">Уместить</string>
+        
+    <string name="stretch">Растянуть</string>
+        
+    <string name="dialog_please_wait">Подождите...</string>
+        
+    <string name="reset">Сброс</string>
+        
+    <string name="choose_picture">Выберите фон</string>
+        
+    <string name="wallpaper_setting">Настройки обоев</string>
+        
+    <string name="thumbnail_setting">Настройки эскизов</string>
+        
+    <string name="browse">Обзор</string>
+    
+    <string name="choose_position">Выберите позицию</string>
+</resources>

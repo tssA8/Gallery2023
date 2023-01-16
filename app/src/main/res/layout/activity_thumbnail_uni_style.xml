@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="427dp"
+        android:layout_height="336dp"
+        android:layout_gravity="center"
+        android:background="@drawable/all_bg_uni_style"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="41dp"
+            android:background="@drawable/captain_uni_style_bg"
+            android:gravity="center_horizontal">
+
+            <ImageView
+                android:id="@+id/iv_back"
+                android:layout_width="@dimen/back_btn_size"
+                android:layout_height="@dimen/back_btn_size"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center"
+                android:layout_marginStart="10dp"
+                android:src="@drawable/back"
+                android:visibility="visible" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:layout_gravity="center"
+                android:fontFamily="sans-serif"
+                android:gravity="center"
+                android:text="@string/thumbnail_setting"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/title_text_size" />
+
+            <ImageView
+                android:id="@+id/iv_cancel"
+                android:layout_width="@dimen/cancel_btn_size"
+                android:layout_height="@dimen/cancel_btn_size"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center_vertical"
+                android:layout_marginEnd="10dp"
+                android:background="@drawable/focus_frame"
+                android:src="@drawable/cancel"
+                android:visibility="visible" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/preview_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bottom_bg_uni_style"
+            android:clipChildren="false"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:visibility="visible">
+
+            <com.makeramen.roundedimageview.RoundedImageView
+                android:id="@+id/thumbnail"
+                android:layout_width="@dimen/thumbnail_preview_circle_size"
+                android:layout_height="@dimen/thumbnail_preview_circle_size"
+                android:layout_marginTop="25dp"
+                android:layout_marginBottom="@dimen/thumbnail_preview_circle_margin_bottom"
+                android:focusable="false"
+                android:src="@drawable/ic_thumbnail_default"
+                app:riv_oval="true" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:layout_marginStart="39dp"
+                android:layout_marginEnd="39dp"
+                android:descendantFocusability="afterDescendants">
+
+                <Button
+                    android:id="@+id/btn_save"
+                    android:layout_width="92dp"
+                    android:layout_height="@dimen/bottom_bar_btn_height"
+                    android:background="@drawable/button_bg"
+                    android:fontFamily="sans-serif"
+                    android:text="@string/save"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="@dimen/bottom_bar_btn_text_size"
+                    app:layout_constraintEnd_toStartOf="@+id/btn_browse"
+                    app:layout_constraintHorizontal_chainStyle="spread"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <Button
+                    android:id="@+id/btn_browse"
+                    android:layout_width="92dp"
+                    android:layout_height="@dimen/bottom_bar_btn_height"
+                    android:background="@drawable/button_bg"
+                    android:focusable="true"
+                    android:fontFamily="sans-serif"
+                    android:text="@string/browse"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="@dimen/bottom_bar_btn_text_size"
+                    app:layout_constraintEnd_toStartOf="@+id/reset"
+                    app:layout_constraintHorizontal_chainStyle="packed"
+                    app:layout_constraintStart_toEndOf="@+id/btn_save"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <Button
+                    android:id="@+id/reset"
+                    android:layout_width="92dp"
+                    android:layout_height="@dimen/bottom_bar_btn_height"
+                    android:background="@drawable/button_bg"
+                    android:fontFamily="sans-serif"
+                    android:text="@string/reset"
+                    android:textColor="@color/colorWhite"
+                    android:textSize="@dimen/bottom_bar_btn_text_size"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_chainStyle="packed"
+                    app:layout_constraintStart_toEndOf="@+id/btn_browse"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/crop_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/bottom_bg_uni_style"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <com.wallpaper.gallery.gallery.utils.LikeQQCropViewTwo
+                android:id="@+id/clipImageLayout"
+                android:layout_width="match_parent"
+                android:layout_height="217dp"
+                android:background="@android:color/black"
+                android:focusable="true" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/bottom_bg_uni_style"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:id="@+id/btn_rotate"
+                    android:layout_width="@dimen/rotate_btn_size"
+                    android:layout_height="@dimen/rotate_btn_size"
+                    android:layout_centerVertical="true"
+                    android:layout_marginStart="@dimen/rotate_btn_margin_left"
+                    android:focusable="true"
+                    android:src="@drawable/ic_thumbnail_edit_rotate" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_centerInParent="true"
+                    android:gravity="center_horizontal">
+
+                    <Button
+                        android:id="@+id/btn_next"
+                        android:layout_width="@dimen/bottom_bar_btn_width"
+                        android:layout_height="@dimen/bottom_bar_btn_height"
+                        android:layout_gravity="center_vertical"
+                        android:background="@drawable/button_bg"
+                        android:focusable="true"
+                        android:text="@string/next"
+                        android:textColor="@android:color/white"
+                        android:textSize="@dimen/next_btn_text_size" />
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

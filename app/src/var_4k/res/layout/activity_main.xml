@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ll_wallpaper_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:focusable="false"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="@dimen/wallpaper_layout_parent_view_width"
+        android:layout_height="@dimen/wallpaper_layout_parent_view_height"
+        android:layout_gravity="center"
+        android:background="@color/darkGreyBg"
+        android:clickable="true"
+        android:descendantFocusability="afterDescendants"
+        android:focusable="true"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/wallpaper_layout_title_bar_height"
+            android:background="@color/titleBgGrey"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/iv_back"
+                android:layout_width="@dimen/back_btn_size"
+                android:layout_height="@dimen/back_btn_size"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center_vertical"
+                android:layout_marginStart="@dimen/wallpaper_layout_title_bar_container_margin_start"
+                android:src="@drawable/back"
+                android:visibility="invisible" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:gravity="center"
+                android:text="@string/wallpaper_setting"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/title_text_size"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/iv_cancel"
+                android:layout_width="@dimen/cancel_btn_size"
+                android:layout_height="@dimen/cancel_btn_size"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center_vertical"
+                android:layout_marginEnd="@dimen/cancel_btn_margin_end"
+                android:background="@drawable/focus_frame"
+                android:scaleType="centerInside"
+                android:src="@drawable/cancel" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/choose_tab"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/sub_title_height"
+            android:background="@color/wallpaper_tab_bg"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/picture"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:background="@drawable/tab_bg_uni_style"
+                android:clickable="true"
+                android:focusable="true"
+                android:focusableInTouchMode="false"
+                android:gravity="center"
+                android:nextFocusDown="@+id/iv_save"
+                android:text="@string/picture"
+                android:textColor="@color/colorWhite"
+                android:textSize="@dimen/sub_title_text_size" />
+
+            <TextView
+                android:id="@+id/color"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:background="@drawable/tab_bg_uni_style"
+                android:clickable="true"
+                android:focusable="true"
+                android:focusableInTouchMode="false"
+                android:gravity="center"
+                android:nextFocusDown="@+id/iv_save"
+                android:text="@string/color"
+                android:textColor="@color/colorWhite"
+                android:textSize="@dimen/sub_title_text_size" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/main_layout"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/wallpaper_linear_layout_height"
+            android:clickable="true"
+            android:clipChildren="false"
+            android:descendantFocusability="afterDescendants"
+            android:focusable="true"
+            android:orientation="vertical"
+            android:paddingTop="@dimen/wallpaper_linear_layout_padding_top">
+
+            <TextView
+                android:id="@+id/choose_tip"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:focusable="false"
+                android:gravity="center_horizontal"
+                android:text="@string/choose_picture"
+                android:textColor="@color/colorWhite"
+                android:textSize="@dimen/choose_tip_text_size" />
+
+            <androidx.leanback.widget.HorizontalGridView
+                android:id="@+id/picture_view"
+                android:layout_width="wrap_content"
+                android:layout_height="134dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@color/colorWhite"
+                android:clipChildren="false"
+                android:clipToPadding="false"
+                android:focusable="false"
+                android:visibility="gone" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/color_view"
+                android:layout_width="@dimen/btn_color_view_width_2022"
+                android:layout_height="@dimen/btn_color_view_height_2022"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginStart="@dimen/btn_color_view_margin_start_2022"
+                android:layout_marginTop="@dimen/btn_color_view_margin_top_2022"
+                android:clipChildren="false"
+                android:clipToPadding="false"
+                android:visibility="gone" />
+
+            <!-- crop_view , fit_view , stretch_view-->
+            <LinearLayout
+                android:id="@+id/crop_view"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/crop_view_height"
+                android:layout_marginStart="@dimen/crop_view_margin_start"
+                android:layout_marginTop="@dimen/crop_view_margin_top"
+                android:layout_marginEnd="@dimen/crop_view_margin_end"
+                android:clickable="true"
+                android:descendantFocusability="afterDescendants"
+                android:focusable="true"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:visibility="visible">
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:descendantFocusability="afterDescendants"
+                    android:focusable="true"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/fit_pic"
+                        android:layout_width="@dimen/crop_mode_pic_width"
+                        android:layout_height="42dp"
+                        android:layout_marginTop="@dimen/crop_mode_pic_margin_start"
+                        android:background="@drawable/select_bg"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:nextFocusRight="@+id/fill_pic"
+                        android:src="@drawable/fit" />
+
+                    <TextView
+                        android:id="@+id/fit_text"
+                        android:layout_width="@dimen/crop_mode_text_width"
+                        android:layout_height="@dimen/crop_mode_text_height"
+                        android:layout_marginTop="@dimen/crop_mode_text_margin_top"
+                        android:gravity="center_horizontal"
+                        android:text="@string/fit"
+                        android:textColor="@color/colorWhite"
+                        android:textSize="@dimen/crop_mode_text_size" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:descendantFocusability="afterDescendants"
+                    android:focusable="true"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/fill_pic"
+                        android:layout_width="@dimen/crop_mode_pic_width"
+                        android:layout_height="@dimen/crop_mode_pic_height"
+                        android:layout_marginTop="@dimen/crop_mode_pic_margin_start"
+                        android:background="@drawable/select_bg"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:focusableInTouchMode="true"
+                        android:nextFocusLeft="@id/fit_pic"
+                        android:nextFocusRight="@+id/stretch_pic"
+                        android:src="@drawable/fill" />
+
+                    <TextView
+                        android:id="@+id/fill_text"
+                        android:layout_width="@dimen/crop_mode_text_width"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/crop_mode_text_margin_top"
+                        android:gravity="center_horizontal"
+                        android:text="@string/fill"
+                        android:textColor="@color/colorWhite"
+                        android:textSize="@dimen/crop_mode_text_size" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:clickable="true"
+                    android:descendantFocusability="afterDescendants"
+                    android:focusable="true"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/stretch_pic"
+                        android:layout_width="@dimen/crop_mode_pic_width"
+                        android:layout_height="@dimen/crop_mode_pic_height"
+                        android:layout_marginTop="@dimen/crop_mode_pic_margin_start"
+                        android:background="@drawable/select_bg"
+                        android:focusableInTouchMode="true"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:nextFocusLeft="@id/fill_pic"
+                        android:src="@drawable/stretch" />
+
+                    <TextView
+                        android:id="@+id/stretch_text"
+                        android:layout_width="@dimen/crop_mode_text_width"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="@dimen/crop_mode_text_margin_top"
+                        android:gravity="center_horizontal"
+                        android:text="@string/stretch"
+                        android:textColor="@color/colorWhite"
+                        android:textSize="@dimen/crop_mode_text_size" />
+                </LinearLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="@dimen/save_browse_container_width_2022"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/iv_save"
+                android:layout_width="@dimen/bottom_bar_btn_width"
+                android:layout_height="@dimen/bottom_bar_btn_height"
+                android:layout_alignParentLeft="true"
+                android:background="@drawable/button_unistyle_selector"
+                android:nextFocusUp="@+id/picture"
+                android:text="@string/save"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/bottom_bar_btn_text_size" />
+
+            <Button
+                android:id="@+id/btn_browse"
+                android:layout_width="@dimen/btn_browse_width"
+                android:layout_height="@dimen/bottom_bar_btn_height"
+                android:layout_alignParentRight="true"
+                android:background="@drawable/button_unistyle_selector"
+                android:focusable="true"
+                android:nextFocusUp="@+id/color"
+                android:text="@string/browse"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/bottom_bar_btn_text_size"
+                android:visibility="visible" />
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>

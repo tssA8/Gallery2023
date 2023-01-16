@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+        
+    <string name="next">بعدی</string>
+        
+    <string name="color">رنگ</string>
+        
+    <string name="choose_color">انتخاب رنگ</string>
+        
+    <string name="save">ذخیره</string>
+        
+    <string name="fill">پرکردن</string>
+        
+    <string name="picture">تصویر</string>
+        
+    <string name="fit">تناسب</string>
+        
+    <string name="stretch">کشیدن</string>
+        
+    <string name="dialog_please_wait">لطفا صبر کنید...</string>
+        
+    <string name="reset">بازنشانی</string>
+        
+    <string name="choose_picture">انتخاب پس زمینه</string>
+        
+    <string name="wallpaper_setting">تنظیمات تصویر زمینه</string>
+        
+    <string name="thumbnail_setting">تنظیمات تصویر بندانگشتی</string>
+        
+    <string name="browse">مرور</string>
+    
+    <string name="choose_position">انتخاب یک موقعيت</string>
+</resources>

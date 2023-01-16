@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="Android TV (1080p)" />
+        <device id="pixel_4_xl" />
+        <device id="tv_1080p" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d17fda88-5ae2-40ac-a9aa-cb9d1dc9b096" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[127.0.0.1:59865]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Data Class" />
+        <option value="Kotlin Sealed Class" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
+        <option value="layoutResourceFile" />
+        <option value="JUnit4 Test Class" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1xky1VlsNfOQNbqY2hfHf5ONWsH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DEBUGGABLE_DEVICE" value="rp6502k-127.0.0.1:21503" />
+    <property name="DEBUGGABLE_PROCESS" value="com.benq.gallery" />
+    <property name="DEBUGGER_ID" value="Java" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_XL_API_26" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2022-11-17T08:58:19.672Z" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="true" />
+    <property name="android-custom-viewC:/Users/Peter.K.Tseng/.gradle/caches/modules-2/files-2.1/androidx.leanback/leanback/1.0.0/5188ccc4e7fe161924b310f6d275a7d7c21e6392/leanback-1.0.0-sources.jar!/androidx/leanback/widget/HorizontalGridView.java_SELECTED" value="HorizontalGridView" />
+    <property name="android-custom-viewC:/Users/Peter.K.Tseng/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
+    <property name="android-custom-viewC:/Users/Peter.K.Tseng/.gradle/caches/modules-2/files-2.1/androidx.viewpager/viewpager/1.0.0/db045f92188b9d247d5f556866f8861ab68528f0/viewpager-1.0.0-sources.jar!/androidx/viewpager/widget/ViewPager.java_SELECTED" value="ViewPager" />
+    <property name="android-custom-viewC:/Users/Peter.K.Tseng/.gradle/caches/modules-2/files-2.1/com.android.support/recyclerview-v7/27.1.1/ad225a74247e675db0b05ea4f8b17202acbb7f9d/recyclerview-v7-27.1.1-sources.jar!/android/support/v7/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
+    <property name="android-custom-viewC:/Users/Peter.K.Tseng/.gradle/caches/modules-2/files-2.1/com.android.support/support-core-ui/27.1.1/266c369a3227be5afec33e11c964472269ff2a7c/support-core-ui-27.1.1-sources.jar!/android/support/design/widget/CoordinatorLayout.java_SELECTED" value="CoordinatorLayout" />
+    <property name="android-custom-viewC:/Users/Peter.K.Tseng/.gradle/caches/modules-2/files-2.1/com.android.support/support-core-ui/27.1.1/266c369a3227be5afec33e11c964472269ff2a7c/support-core-ui-27.1.1-sources.jar!/android/support/v4/view/ViewPager.java_SELECTED" value="ViewPager" />
+    <property name="android-custom-viewC:/Users/Peter.K.Tseng/.gradle/caches/modules-2/files-2.1/com.github.ybq/Android-SpinKit/1.4.0/f58852551150babe66d223b0c3107ecece8eff7f/Android-SpinKit-1.4.0-sources.jar!/com/github/ybq/android/spinkit/SpinKitView.java_SELECTED" value="SpinKitView" />
+    <property name="android-custom-viewC:/Users/Peter.K.Tseng/.gradle/caches/modules-2/files-2.1/com.github/MyCropBitmap/1.0.9/41910ca7765bf8ceeb659797371f4c0312428b30/MyCropBitmap-1.0.9-sources.jar!/com/github/cropbitmap/LikeQQCropView.java_SELECTED" value="LikeQQCropView" />
+    <property name="android-custom-viewC:/Users/Peter.K.Tseng/.gradle/caches/modules-2/files-2.1/com.makeramen/roundedimageview/2.2.1/2c1561f7ebb7d1cae5389f6779b4936ee40e4f80/roundedimageview-2.2.1-sources.jar!/com/makeramen/roundedimageview/RoundedImageView.java_SELECTED" value="RoundedImageView" />
+    <property name="android-custom-viewC:/Users/Peter.K.Tseng/Desktop/BenQGallery/MyCropBitmap/src/main/java/com/github/cropbitmap/LikeQQCropView.java_SELECTED" value="LikeQQCropView" />
+    <property name="android-custom-viewC:/Users/Peter.K.Tseng/Desktop/BenQGallery/MyCropBitmap/src/main/java/com/github/cropbitmap/LikeXMCropView.java_SELECTED" value="LikeXMCropView" />
+    <property name="android-custom-viewC:/Users/Peter.K.Tseng/Desktop/BenQGallery/app/src/main/java/com/benq/gallery/gallery/Utils/LikeQQCropViewTwo.java_SELECTED" value="LikeQQCropViewTwo" />
+    <property name="android-custom-viewC:/Users/Peter.K.Tseng/Desktop/BenQGallery/app/src/main/java/com/benq/gallery/gallery/utils/BookmarksFocusKeepRecyclerView.kt_SELECTED" value="BookmarksFocusKeepRecyclerView" />
+    <property name="android-custom-viewC:/Users/Peter.K.Tseng/Desktop/BenQGallery/app/src/main/java/com/benq/gallery/gallery/utils/LikeQQCropViewTwo.java_SELECTED" value="LikeQQCropViewTwo" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="multi-representation-previewC:/Users/Peter.K.Tseng/.gradle/caches/modules-2/files-2.1/androidx.leanback/leanback/1.0.0/5188ccc4e7fe161924b310f6d275a7d7c21e6392/leanback-1.0.0-sources.jar!/androidx/leanback/widget/HorizontalGridView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Peter.K.Tseng/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Peter.K.Tseng/.gradle/caches/modules-2/files-2.1/androidx.viewpager/viewpager/1.0.0/db045f92188b9d247d5f556866f8861ab68528f0/viewpager-1.0.0-sources.jar!/androidx/viewpager/widget/ViewPager.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Peter.K.Tseng/.gradle/caches/modules-2/files-2.1/com.android.support/recyclerview-v7/27.1.1/ad225a74247e675db0b05ea4f8b17202acbb7f9d/recyclerview-v7-27.1.1-sources.jar!/android/support/v7/widget/RecyclerView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Peter.K.Tseng/.gradle/caches/modules-2/files-2.1/com.android.support/support-core-ui/27.1.1/266c369a3227be5afec33e11c964472269ff2a7c/support-core-ui-27.1.1-sources.jar!/android/support/design/widget/CoordinatorLayout.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Peter.K.Tseng/.gradle/caches/modules-2/files-2.1/com.android.support/support-core-ui/27.1.1/266c369a3227be5afec33e11c964472269ff2a7c/support-core-ui-27.1.1-sources.jar!/android/support/v4/view/ViewPager.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Peter.K.Tseng/.gradle/caches/modules-2/files-2.1/com.github.ybq/Android-SpinKit/1.4.0/f58852551150babe66d223b0c3107ecece8eff7f/Android-SpinKit-1.4.0-sources.jar!/com/github/ybq/android/spinkit/SpinKitView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Peter.K.Tseng/.gradle/caches/modules-2/files-2.1/com.github/MyCropBitmap/1.0.9/41910ca7765bf8ceeb659797371f4c0312428b30/MyCropBitmap-1.0.9-sources.jar!/com/github/cropbitmap/LikeQQCropView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Peter.K.Tseng/.gradle/caches/modules-2/files-2.1/com.makeramen/roundedimageview/2.2.1/2c1561f7ebb7d1cae5389f6779b4936ee40e4f80/roundedimageview-2.2.1-sources.jar!/com/makeramen/roundedimageview/RoundedImageView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Peter.K.Tseng/Desktop/BenQGallery/MyCropBitmap/src/main/java/com/github/cropbitmap/LikeQQCropView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Peter.K.Tseng/Desktop/BenQGallery/MyCropBitmap/src/main/java/com/github/cropbitmap/LikeXMCropView.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Peter.K.Tseng/Desktop/BenQGallery/app/src/main/java/com/benq/gallery/gallery/Utils/LikeQQCropViewTwo.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Peter.K.Tseng/Desktop/BenQGallery/app/src/main/java/com/benq/gallery/gallery/utils/BookmarksFocusKeepRecyclerView.kt_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Peter.K.Tseng/Desktop/BenQGallery/app/src/main/java/com/benq/gallery/gallery/utils/LikeQQCropViewTwo.java_selected" value="Custom views" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="gradle.compiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.benq.gallery.gallery.dataclass" />
+      <recent name="com.benq.gallery.gallery.common.dependnecyinjection.presentation" />
+      <recent name="com.benq.gallery.gallery.common.dependnecyinjection" />
+      <recent name="com.benq.gallery.gallery.common.dependnecyinjection.activity" />
+      <recent name="com.benq.gallery.gallery.common.dependencyInjection.presentation" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.benq.gallery.gallery" />
+      <recent name="com.benq.gallery.gallery.saveBitmaps" />
+    </key>
+    <key name="android.template.-1149787761">
+      <recent name="com.benq.gallery.gallery" />
+    </key>
+    <key name="android.template.-867207546">
+      <recent name="com.benq.gallery.gallery" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.benq.gallery.gallery.common" />
+      <recent name="com.benq.gallery.gallery.questions" />
+      <recent name="com.benq.gallery.gallery.viewMvc" />
+      <recent name="com.benq.gallery.gallery.common.dependnecyinjection.activity" />
+      <recent name="com.benq.gallery.gallery.common.dependencyInjection" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Peter.K.Tseng\Desktop\BenQGallery\app\src\main\java\com\benq\gallery\gallery\utils" />
+      <recent name="C:\Users\Peter.K.Tseng\Desktop\BenQGallery\app\src\main\res\drawable" />
+      <recent name="C:\Users\Peter.K.Tseng\Desktop\BenQGallery\app\src\main\java\com\benq\gallery\gallery" />
+      <recent name="C:\Users\Peter.K.Tseng\Desktop\BenQGallery\app\src\main\java\com\benq\gallery\gallery\viewmodels" />
+      <recent name="C:\Users\Peter.K.Tseng\Desktop\BenQGallery\app\src\main\java\com\benq\gallery\gallery\common\dependnecyinjection\presentation" />
+    </key>
+    <key name="android.template.-98664399">
+      <recent name="com.benq.gallery.gallery" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.benq.gallery.gallery.common" />
+    </key>
+    <key name="android.template.-473703953">
+      <recent name="com.benq.gallery" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Gallery2023.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="correctUseOfCorout...()" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="BenQGallery.app" />
+      <option name="TESTING_TYPE" value="3" />
+      <option name="METHOD_NAME" value="correctUseOfCoroutinesVariant2" />
+      <option name="CLASS_NAME" value="com.benq.gallery.gallery.MainActivityTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="createColorBitmap_...()" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="BenQGallery.app" />
+      <option name="TESTING_TYPE" value="3" />
+      <option name="METHOD_NAME" value="createColorBitmap_create_bitmap" />
+      <option name="CLASS_NAME" value="com.benq.gallery.gallery.MainActivityTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="createFillBitmap_I...()" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="BenQGallery.app" />
+      <option name="TESTING_TYPE" value="3" />
+      <option name="METHOD_NAME" value="createFillBitmap_Insert_bitmap" />
+      <option name="CLASS_NAME" value="com.benq.gallery.gallery.MainActivityTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="createFillBitmap()" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="BenQGallery.app" />
+      <option name="TESTING_TYPE" value="3" />
+      <option name="METHOD_NAME" value="createFillBitmap" />
+      <option name="CLASS_NAME" value="com.benq.gallery.gallery.MainActivityTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="createFitBitmap_In...()" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="BenQGallery.app" />
+      <option name="TESTING_TYPE" value="3" />
+      <option name="METHOD_NAME" value="createFitBitmap_Insert_bitmap" />
+      <option name="CLASS_NAME" value="com.benq.gallery.gallery.MainActivityTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Java />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android Instrumented Tests.createColorBitmap_...()" />
+        <item itemvalue="Android Instrumented Tests.createFillBitmap_I...()" />
+        <item itemvalue="Android Instrumented Tests.createFitBitmap_In...()" />
+        <item itemvalue="Android Instrumented Tests.correctUseOfCorout...()" />
+        <item itemvalue="Android Instrumented Tests.createFillBitmap()" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d17fda88-5ae2-40ac-a9aa-cb9d1dc9b096" name="Default Changelist" comment="" />
+      <created>1596165405193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596165405193</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="662" y="201" key="#app" timestamp="1668397322543">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="662" y="201" key="#app/0.0.1920.1080@0.0.1920.1080" timestamp="1668397322543" />
+    <state x="254" y="95" key="#com.benq.gallery.gallery.saveBitmaps_in_BenQGallery.app" timestamp="1668589349837">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="254" y="95" key="#com.benq.gallery.gallery.saveBitmaps_in_BenQGallery.app/0.0.1920.1080@0.0.1920.1080" timestamp="1668589349837" />
+    <state x="0" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1667533538670">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1667533538670" />
+    <state x="765" y="245" key="#com.intellij.ide.util.MemberChooser" timestamp="1673506907235">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="765" y="245" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1673506907235" />
+    <state x="313" y="311" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1668653187961">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="313" y="311" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1668653187961" />
+    <state x="715" y="241" key="#xdebugger.evaluate" timestamp="1666333524974">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="715" y="241" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1666333524974" />
+    <state x="60" y="298" key="AndroidCreateResourceFileDialog" timestamp="1673507937400">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="60" y="298" key="AndroidCreateResourceFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1673507937400" />
+    <state x="768" y="285" key="AndroidProcessChooserDialog" timestamp="1671586470544">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="768" y="285" key="AndroidProcessChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1671586470544" />
+    <state width="463" height="466" key="DebuggerActiveHint" timestamp="1671586528101">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="463" height="466" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1671586528101" />
+    <state x="429" y="253" width="764" height="491" key="FileChooserDialogImpl" timestamp="1673576215269">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="429" y="253" width="764" height="491" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1673576215269" />
+    <state width="1877" height="300" key="GridCell.Tab.0.bottom" timestamp="1673575358106">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="300" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1673575358106" />
+    <state width="1877" height="300" key="GridCell.Tab.0.center" timestamp="1673575358105">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="300" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1673575358105" />
+    <state width="1877" height="300" key="GridCell.Tab.0.left" timestamp="1673575358105">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="300" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1673575358105" />
+    <state width="1877" height="300" key="GridCell.Tab.0.right" timestamp="1673575358105">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="300" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1673575358105" />
+    <state width="1877" height="295" key="GridCell.Tab.1.bottom" timestamp="1671588182106">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1671588182106" />
+    <state width="1877" height="295" key="GridCell.Tab.1.center" timestamp="1671588182105">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1671588182105" />
+    <state width="1877" height="295" key="GridCell.Tab.1.left" timestamp="1671588182105">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1671588182105" />
+    <state width="1877" height="295" key="GridCell.Tab.1.right" timestamp="1671588182106">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1671588182106" />
+    <state x="1108" y="339" key="chooseDestDirectoryDialog" timestamp="1668654718346">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1108" y="339" key="chooseDestDirectoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1668654718346" />
+    <state x="0" y="132" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1668664507713">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="132" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1668664507713" />
+    <state x="855" y="193" width="1065" height="806" key="find.popup" timestamp="1673576604662">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="855" y="193" width="1065" height="806" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1673576604662" />
+    <state width="705" height="170" key="javadoc.popup.new" timestamp="1673574459150">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="705" height="170" key="javadoc.popup.new/0.0.1920.1080@0.0.1920.1080" timestamp="1673574459150" />
+    <state x="347" y="212" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1668653197678">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="347" y="212" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1668653197678" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1673506382812">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1673506382812" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1668499314060">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1668499314060" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/wallpaper/gallery/gallery/viewMvc/ThumbnailViewMvc.kt</url>
+          <line>324</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/wallpaper/gallery/gallery/viewMvc/ThumbnailViewMvc.kt</url>
+          <line>325</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/wallpaper/gallery/gallery/viewMvc/ThumbnailViewMvc.kt</url>
+          <line>338</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/wallpaper/gallery/gallery/viewMvc/ThumbnailViewMvc.kt</url>
+          <line>339</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/wallpaper/gallery/gallery/viewMvc/ThumbnailViewMvc.kt</url>
+          <line>337</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/wallpaper/gallery/gallery/viewMvc/ThumbnailViewMvc.kt</url>
+          <line>342</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/wallpaper/gallery/gallery/viewMvc/ThumbnailViewMvc.kt</url>
+          <line>343</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

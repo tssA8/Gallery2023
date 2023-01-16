@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+        
+    <string name="next">Další</string>
+        
+    <string name="color">Barva</string>
+        
+    <string name="choose_color">Vybrat barvu</string>
+        
+    <string name="save">Uložit</string>
+        
+    <string name="fill">Vyplnit</string>
+        
+    <string name="picture">Obraz</string>
+        
+    <string name="fit">Přizpůsobit</string>
+        
+    <string name="stretch">Roztáhnout</string>
+        
+    <string name="dialog_please_wait">Prosím čekejte...</string>
+        
+    <string name="reset">Resetovat</string>
+        
+    <string name="choose_picture">Vybrat pozadí</string>
+        
+    <string name="wallpaper_setting">Nastavení tapety</string>
+        
+    <string name="thumbnail_setting">Nastavení miniatur</string>
+        
+    <string name="browse">Procházet</string>
+    
+    <string name="choose_position">Zvolit si pozici</string>
+</resources>

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github:MyCropBitmap:1.0.9@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ae8193181e1ac7f13f80e6a525404a06/jetified-MyCropBitmap-1.0.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ae8193181e1ac7f13f80e6a525404a06/jetified-MyCropBitmap-1.0.9/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ae8193181e1ac7f13f80e6a525404a06/jetified-MyCropBitmap-1.0.9/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f9708b85371a5e93f64ebce374dbf85c/jetified-MyCropBitmap-1.0.9/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f9708b85371a5e93f64ebce374dbf85c/jetified-MyCropBitmap-1.0.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f9708b85371a5e93f64ebce374dbf85c/jetified-MyCropBitmap-1.0.9/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github/MyCropBitmap/1.0.9/57ef3d42016f424b35776af16aa19663dab1e188/MyCropBitmap-1.0.9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github/MyCropBitmap/1.0.9/41910ca7765bf8ceeb659797371f4c0312428b30/MyCropBitmap-1.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

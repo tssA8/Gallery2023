@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+            
+    
+    <string name="dialog_please_wait">请稍等...</string>
+        
+    
+    <string name="next">下一步</string>
+        
+    <string name="color">颜色</string>
+        
+    <string name="choose_color">选择颜色</string>
+        
+    <string name="save">保存</string>
+        
+    <string name="fill">填满</string>
+        
+    <string name="picture">图片</string>
+        
+    <string name="fit">适合</string>
+        
+    <string name="stretch">拉伸</string>
+        
+    <string name="reset">重置</string>
+        
+    <string name="choose_picture">选择背景</string>
+        
+    <string name="wallpaper_setting">壁纸设置</string>
+        
+    <string name="thumbnail_setting">缩略图设置</string>
+        
+    <string name="browse">浏览</string>
+    
+    <string name="choose_position">选择位置</string>
+</resources>

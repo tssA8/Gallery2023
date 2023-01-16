@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+        
+    <string name="next">Următorul</string>
+        
+    <string name="color">Culoare</string>
+        
+    <string name="choose_color">Selectaţi o culoare</string>
+        
+    <string name="save">Salvare</string>
+        
+    <string name="fill">Umplere</string>
+        
+    <string name="picture">Imagine</string>
+        
+    <string name="fit">Potrivire</string>
+        
+    <string name="stretch">Întindere</string>
+        
+    <string name="dialog_please_wait">Vă rugăm aşteptaţi...</string>
+        
+    <string name="reset">Resetare</string>
+        
+    <string name="choose_picture">Selectaţi un fundal</string>
+        
+    <string name="wallpaper_setting">Setări imagine de fundal</string>
+        
+    <string name="thumbnail_setting">Setări miniatură</string>
+        
+    <string name="browse">Navigare</string>
+    
+    <string name="choose_position">Alegeţi o poziţie</string>
+</resources>

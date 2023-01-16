@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+        
+    <string name="next">التالي</string>
+        
+    <string name="color">اللون</string>
+        
+    <string name="choose_color">تحديد لون</string>
+        
+    <string name="save">حفظ</string>
+        
+    <string name="fill">ملء</string>
+        
+    <string name="picture">الصورة</string>
+        
+    <string name="fit">ملائمة</string>
+        
+    <string name="stretch">تمديد</string>
+        
+    <string name="dialog_please_wait">يُرجي الانتظار...</string>
+        
+    <string name="reset">إعادة ضبط</string>
+        
+    <string name="choose_picture">تحديد خلفية</string>
+        
+    <string name="wallpaper_setting">إعدادات الخلفية</string>
+        
+    <string name="thumbnail_setting">إعدادات الصور المصغرة</string>
+        
+    <string name="browse">استعراض</string>
+    
+    <string name="choose_position">اختر موضعًا</string>
+</resources>

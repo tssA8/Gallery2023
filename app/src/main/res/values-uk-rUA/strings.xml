@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+            
+
+<string name="next">Далі</string>
+    <string name="color">Колір</string>
+    <string name="save">зберегти</string>
+    <string name="fit">підходить</string>
+    <string name="stretch">розтягуватись</string>
+    <string name="dialog_please_wait">Будь ласка, зачекайте…</string>
+    <string name="choose_picture">Виберіть фон</string>
+    <string name="choose_color">Виберіть колір</string>
+    <string name="choose_position">Виберіть позицію</string>
+    <string name="fill">Заповнити</string>
+    <string name="picture">Картина</string>
+    <string name="reset">Скинути</string>
+    <string name="wallpaper_setting">Налаштування шпалер</string>
+    <string name="thumbnail_setting">Налаштування ескізів</string>
+    <string name="browse">переглядати</string>
+</resources>

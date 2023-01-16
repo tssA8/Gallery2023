@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+        
+    <string name="next">ถัดไป</string>
+        
+    <string name="color">สี</string>
+        
+    <string name="choose_color">เลือกสี</string>
+        
+    <string name="save">บันทึก</string>
+        
+    <string name="fill">เติม</string>
+        
+    <string name="picture">รูปภาพ</string>
+        
+    <string name="fit">พอดี</string>
+        
+    <string name="stretch">ยืด</string>
+        
+    <string name="dialog_please_wait">โปรดรอ...</string>
+        
+    <string name="reset">รีเซ็ต</string>
+        
+    <string name="choose_picture">เลือกพื้นหลัง</string>
+        
+    <string name="wallpaper_setting">การตั้งค่าวอลเปเปอร์</string>
+        
+    <string name="thumbnail_setting">การตั้งค่าภาพขนาดย่อ</string>
+        
+    <string name="browse">เรียกดู</string>
+    
+    <string name="choose_position">เลือกตำแหน่ง</string>
+</resources>

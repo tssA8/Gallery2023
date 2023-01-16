@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+        
+    <string name="next">הבא</string>
+        
+    <string name="color">צבע</string>
+        
+    <string name="choose_color">בחירת צבע</string>
+        
+    <string name="save">שמור</string>
+        
+    <string name="fill">מילוי</string>
+        
+    <string name="picture">תמונה</string>
+        
+    <string name="fit">התאמה</string>
+        
+    <string name="stretch">מתיחה</string>
+        
+    <string name="dialog_please_wait">נא להמתין...</string>
+        
+    <string name="reset">איפוס</string>
+        
+    <string name="choose_picture">בחירת רקע</string>
+        
+    <string name="wallpaper_setting">הגדרות טפט</string>
+        
+    <string name="thumbnail_setting">הגדרות תמונה ממוזערת</string>
+        
+    <string name="browse">דפדוף</string>
+    
+    <string name="choose_position">בחירת מיקום</string>
+</resources>

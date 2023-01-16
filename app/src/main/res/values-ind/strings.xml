@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+        
+    <string name="next">Berikutnya</string>
+        
+    <string name="color">Warna</string>
+        
+    <string name="choose_color">Pilih warna</string>
+        
+    <string name="save">Simpan</string>
+        
+    <string name="fill">Isi</string>
+        
+    <string name="picture">Gambar</string>
+        
+    <string name="fit">Sesuaikan</string>
+        
+    <string name="stretch">Bentangkan</string>
+        
+    <string name="dialog_please_wait">Harap tunggu...</string>
+        
+    <string name="reset">Reset</string>
+        
+    <string name="choose_picture">Pilih latar belakang</string>
+        
+    <string name="wallpaper_setting">Pengaturan Wallpaper</string>
+        
+    <string name="thumbnail_setting">Pengaturan Gambar Kecil</string>
+        
+    <string name="browse">Telusuri</string>
+    
+    <string name="choose_position">Pilih posisi</string>
+</resources>
